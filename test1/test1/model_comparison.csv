@@ -1,3 +1,0 @@
-﻿Model,CV best F1 (yes),Accuracy,Precision (yes),Recall (yes),F1 (yes),ROC-AUC,Best parameters,"Confusion matrix [no, yes]"
-Logistic Regression,0.6593178989215498,0.7846696167404185,0.529446757882213,0.8428030303030303,0.6503470953598831,0.8883751434661421,"{'classifier__C': 1.0, 'classifier__class_weight': 'balanced'}","[[7792, 2373], [498, 2670]]"
-Random Forest,0.6627096231546058,0.8015450386259656,0.5563958513396715,0.8128156565656566,0.6605951770138533,0.8887670047747519,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': None, 'classifier__min_samples_leaf': 3, 'classifier__n_estimators': 100}","[[8112, 2053], [593, 2575]]"
